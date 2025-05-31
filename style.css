@@ -1,0 +1,16 @@
+.main{
+    color: blue;
+}
+#specific-item{
+    color: red;
+    background-color: #000;
+}
+.item{
+    color: green;
+}
+#p-tag{
+    color:brown;
+}
+.last-item{
+    color: green;
+}
