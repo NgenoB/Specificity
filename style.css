@@ -14,3 +14,36 @@
 .last-item{
     color: green;
 }
+
+nav ul a{
+    list-style: none;
+    text-decoration: none;
+}
+#main-nav{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    background-color: #000;  
+}
+nav a{
+    color: #fff;
+}
+
+a:link{
+    background-color: rgb(48, 48, 186);
+    padding: 1%;
+}
+#main-nav a:hover{
+    background-color: #ff8000;
+    color: #000;
+}
+
+a:visited{
+    background-color: rgb(116, 0, 0);
+    color: #fff;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+}
